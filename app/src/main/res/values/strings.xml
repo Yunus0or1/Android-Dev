@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Basic app</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_search">SearchActivity</string>
+    <string name="title_activity_profile">ProfileActivity</string>
+    <string name="title_activity_normalized">Normalized</string>
+    <string name="applink">"http://www.algomatrix.co"</string>
+</resources>

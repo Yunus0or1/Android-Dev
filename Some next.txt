@@ -1,0 +1,10 @@
+﻿Android Layout design like PlayStore:: https://android-pratap.blogspot.com/2015/12/horizontal-recyclerview-in-vertical.html?fbclid=IwAR32qoTkE3ZQpJqtbTsYnforZnq7FpVy52DtPWFpL6SmKgrXi8rKDwU_C0U
+
+
+Multiple device/screen support
+
+Instead of using dp/sp you can use sdp which works great in every device in terms of pixels.
+
+implementation 'com.intuit.sdp:sdp-android:1.0.6'
+
+use sdp instead of dp/sp in android XML layout.

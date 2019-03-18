@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape xmlns:android="http://schemas.android.com/apk/res/android"
+            android:innerRadius="25dp"
+            android:shape="ring"
+            android:thickness="5dp"
+            android:useLevel="false">
+            <solid android:color="@color/off_red" />
+
+            <padding
+                android:left="11dp"
+                android:right="11dp"/>
+        </shape>
+
+    </item>
+    <item
+        android:drawable="@drawable/ic_search"
+        android:width="40dp"
+        android:height="50dp"/>
+</layer-list>
