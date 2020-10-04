@@ -1,4 +1,4 @@
-# BasicApp
+# Android-Dev
 Simple android app for beginners to start with. This app includes.
  - Intents
  - TabLayout
